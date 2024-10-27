@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65c0553c-1913-43e5-a330-aa91c7bb7d8c)# qr-code-generator
+# qr-code-generator
 A QR Code Generator is a tool or application that creates Quick Response (QR) codes. QR codes are two-dimensional barcodes that can store data such as URLs, text, These codes can be scanned by QR code readers or smartphone cameras to quickly access the stored information.
 
 # Technologies Often Used
@@ -10,6 +10,9 @@ API-Based: Some tools use third-party APIs for quick integration.
 
 # Live Demo
 https://mohammadalshorman.github.io/qr-code-generator/
+
+# source code
+https://github.com/MohammadAlshorman/qr-code-generator.git
 
 
 
