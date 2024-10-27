@@ -8,6 +8,8 @@ API-Based: Some tools use third-party APIs for quick integration.
 # Screen shot 
 ![QR](https://github.com/user-attachments/assets/5201220f-ad20-4ece-a514-a9bf9d3a3441)
 
+![d](https://github.com/user-attachments/assets/10d9011a-6659-425c-95d9-bac2664246ab)
+
 # Live Demo
 https://mohammadalshorman.github.io/qr-code-generator/
 
