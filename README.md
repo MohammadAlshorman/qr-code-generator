@@ -3,5 +3,6 @@ A QR Code Generator is a tool or application that creates Quick Response (QR) co
 
 # Technologies Often Used
 Frontend: HTML, CSS, and JavaScript frameworks for user interaction.
+
 API-Based: Some tools use third-party APIs for quick integration.
 
